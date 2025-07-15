@@ -1,30 +1,49 @@
-# Hi there, I'm Chiyume Chunga! 👋
+# 👨🏽‍💻 Chiyume Chunga | Aspiring Software & Security Engineer
 
-## About Me
+## 📌 About Me
 
-Hi, I'm **Chiyume Chunga** – an aspiring software developer dedicated to learning and implementing new technologies. While my portfolio project is still in progress, I am actively engaged in various projects that help me grow my skills and knowledge in IT.
+I am a final-year student with a strong foundation in software development and a keen interest in the convergence of cloud computing and cybersecurity. I am passionate about building secure, scalable, and efficient software solutions.
 
-## Skills
+My academic journey has equipped me with a solid understanding of core computer science principles. I am now focused on applying this knowledge to solve real-world problems and build a robust portfolio of demonstratable work.
 
-- **Programming Languages:** HTML5, CSS3, JavaScript, PHP, Kotlin, Java, Python
-- **Frameworks & Libraries:** React, Node.js
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code
-- **Other Technologies:** MySQL
+---
 
-## Current Projects
+## 🛠️ Technical Skills
 
-- **[Developer Portfolio](https://github.com/chiyumechunga/Portfolio):** A personal website to showcase my projects, skills, and professional journey. (Work in progress)
-- **Waxing Salon Business Android Project:** An Android application to manage appointments and services for a waxing salon. (Currently developing)
-- **Music Streaming Platform for the Zambian Market:** A platform tailored for the Zambian market to stream music. (Planning phase, open for collaboration)
+My skill set spans across development, cloud infrastructure, and security principles:
 
-## Interests
+| **Category**            | **Skills**                                                                     |
+|-------------------------|--------------------------------------------------------------------------------|
+| **Programming Languages** | Python, Java, Kotlin, JavaScript, PHP,                                       |
+| **Frameworks & Libraries** | React, Spring Boot                                                          |
+| **Databases**           | MySQL, PostgreSQL                                                              |
+| **Cloud & DevOps**      | AWS (EC2, S3, IAM), Docker, Git, GitHub, CI/CD                                 |
+| **Cybersecurity**       | Network Security Principles, Vulnerability Assessment, Secure Coding Practices |
+| **Development Tools**   | Visual Studio Code, Android Studio, Burp Suite                                 |
 
-- **Web Development:** Creating responsive and interactive web applications.
-- **Emerging Technologies:** Exploring new trends and advancements in technology.
-- **Open Source Contribution:** Contributing to open source projects and collaborating with other developers.
+---
 
-## Connect with Me
+## 📂 Project Portfolio
 
-Feel free to reach out for collaborations, inquiries, or just to connect! I'm always open to discussing new projects and opportunities.
+I am actively developing a portfolio that showcases my ability to deliver end-to-end software solutions.
 
-Thank you for visiting my profile!
+| **Project Name** | **Description** | **Status** | **Technologies** |
+|------------------|------------------|-------------|-------------------|
+| **Totally Waxed - Salon Management App** | An Android application designed to streamline appointment booking, client management, and service tracking for a local salon business. This project demonstrates my skills in mobile development and user-centric design. | In Development | Kotlin, Java, Android SDK, Firebase |
+| **Secure Cloud Deployment Pipeline** | A personal project focused on creating a secure and automated CI/CD pipeline for a sample web application, deploying it to AWS with a focus on security best practices. | Planning | AWS, Docker, GitHub Actions, Terraform |
+
+---
+
+## 🎯 Professional Goals & Interests
+
+As I approach graduation, my primary goal is to secure a role where I can contribute to meaningful projects while continuing to grow as a software and security engineer. I am particularly interested in:
+
+- 🔐 **Cloud Security**: Implementing and managing security controls within cloud environments  
+- 🔄 **DevSecOps**: Integrating security practices into the software development lifecycle  
+- 🛡️ **Application Security**: Identifying and mitigating vulnerabilities in web and mobile applications  
+
+I am always open to collaboration and welcome opportunities to connect with fellow developers, mentors, and industry professionals.  
+**Feel free to reach out!**
+
+---
+
