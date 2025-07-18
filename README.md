@@ -29,7 +29,7 @@ I am actively developing a portfolio that showcases my ability to deliver end-to
 
 | **Project Name** | **Description** | **Status** | **Technologies** |
 |------------------|------------------|-------------|-------------------|
-| **Totally Waxed - Salon Management App** | An Android application designed to streamline appointment booking, client management, and service tracking for a local salon business. This project demonstrates my skills in mobile development and user-centric design. | In Development | Kotlin, Java, Android SDK, Firebase |
+| **Totally Waxed - Salon Management App** | An Android application designed to streamline appointment booking, client management, and service tracking for a local salon business. This project demonstrates my skills in mobile development and user-centric design. | In Development | Kotlin, Java, Android SDK, Supabase |
 | **Secure Cloud Deployment Pipeline** | A personal project focused on creating a secure and automated CI/CD pipeline for a sample web application, deploying it to AWS with a focus on security best practices. | Planning | AWS, Docker, GitHub Actions, Terraform |
 
 ---
