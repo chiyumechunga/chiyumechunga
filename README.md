@@ -1,34 +1,34 @@
-# 👨🏽‍💻 Chiyume Chunga | Junior Software & Security Engineer
+# Chiyume Chunga | Junior Software & Security Engineer
 
-## 📌 About Me
+## About Me
 
-I am a final-year student with a strong foundation in software engineering and a keen interest in the convergence of cloud computing and cybersecurity. I am passionate about building secure, scalable, and efficient software solutions.
+I am a BSc. Information Technology Graduand with a strong foundation in software engineering and a keen interest in the convergence of cloud computing and cybersecurity. I am passionate about building secure, scalable, and efficient software solutions.
 
-My academic journey has equipped me with a solid understanding of core computer science principles. I am now focused on applying this knowledge to solve real-world problems and build a robust portfolio of demonstratable work.
+My academic journey has equipped me with a solid understanding of core computer science principles. I am now focused on applying this knowledge to solve real-world problems and build a robust portfolio of demonstrable work.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 My skill set spans across development, cloud infrastructure, and security principles:
 
 | **Category**            | **Skills**                                                                     |
 |-------------------------|--------------------------------------------------------------------------------|
-| **Programming Languages** | Java, Kotlin, JavaScript                                                     |
+| **Programming Languages** | Java, Kotlin                                                                 |
 | **Frameworks & Libraries** | React, Spring Boot                                                          |
 | **Databases**           | PostgreSQL                                                                     |
-| **Cloud & DevOps**      | AWS (EC2, S3, IAM), Docker, Git, GitHub, CI/CD                                 |
+| **Cloud & DevOps**      | Docker, Git, GitHub, CI/CD                                                     |
 | **Cybersecurity**       | Network Security Principles, Vulnerability Assessment, Secure Coding Practices |
-| **Development Tools**   | IntelliJ, Android Studio, Burp Suite                                           |
+| **Development Tools**   | IntelliJ, Android Studio, Postman,Burp Suite                                   |
 
 ---
 
-## 📂 Project Portfolio
+## Project Portfolio
 
 I am actively developing a portfolio that showcases my ability to deliver end-to-end software solutions.
 
 
-## 🎯 Professional Goals & Interests
+## Professional Goals & Interests
 
 As I approach graduation, my primary goal is to secure a role where I can contribute to meaningful projects while continuing to grow as a software and security engineer. I am particularly interested in:
 
